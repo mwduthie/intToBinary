@@ -1,0 +1,6 @@
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\intToBinary\intToBinary\bin\Debug\intToBinary.exe.config
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\intToBinary\intToBinary\bin\Debug\intToBinary.exe
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\intToBinary\intToBinary\bin\Debug\intToBinary.pdb
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\intToBinary\intToBinary\obj\Debug\intToBinary.csproj.CoreCompileInputs.cache
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\intToBinary\intToBinary\obj\Debug\intToBinary.exe
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\intToBinary\intToBinary\obj\Debug\intToBinary.pdb
